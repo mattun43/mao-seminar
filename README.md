@@ -6,6 +6,7 @@ https://elmas3.github.io/mao-seminar/
 #メンバー
 田中
 山田
+砂糖
 わかば
 
 
